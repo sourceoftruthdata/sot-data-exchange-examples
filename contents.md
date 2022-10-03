@@ -31,4 +31,4 @@ https://docs.aws.amazon.com/data-exchange/latest/userguide/product-description-t
 
 >python ./code/coinbase_coins_public.py
 
-### The expected output is the current Coinbase Assets printed to screen.  The user can modify and request any necessary sub-fields.
+The expected output is the current Coinbase Assets printed to screen.  The user can modify and request any necessary sub-fields.
