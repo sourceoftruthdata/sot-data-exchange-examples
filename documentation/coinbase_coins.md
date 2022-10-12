@@ -32,7 +32,6 @@ Key data points include:
 
 * Key Data Point: Near real-time available of Coinbase Assets in a readable, user-friendly format
 
-
 ---
 ## Additional Information
 
