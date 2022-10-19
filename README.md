@@ -15,14 +15,14 @@ Suggestions and feedback can be entered in Github Issues.
 # create venv
 >python -m venv venv
 
-# activate venve
+# activate venv
 >source ./venv/bin/activate
 
 # install requirements
 >pip install -r requirements.txt
 
 # run code
->python python ./code/coinbase_coins_public.py
+>python ./code/coinbase_coins_public.py
 
 
 # COMING SOON
