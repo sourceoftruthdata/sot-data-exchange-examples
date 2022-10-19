@@ -9,3 +9,17 @@ Discord: https://discord.com/channels/1026643182018101421/1026643182018101424
 
 
 Suggestions and feedback can be entered in Github Issues.
+
+# Running locally:
+
+# create venv
+>python -m venv venv
+
+# activate venve
+>source ./venv/bin/activate
+
+# install requirements
+>pip install -r requirements.txt
+
+# run code
+>python python ./code/coinbase_coins_public.py
