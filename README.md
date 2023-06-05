@@ -27,4 +27,6 @@ Suggestions and feedback can be entered in Github Issues.
 
 # COMING SOON
 ## Google COLAB Notebooks
-## this will eliminate the need for the venv
+## this will eliminate the need for the venv creation
+
+## currently the notebooks require AWS boto setup for authentication
