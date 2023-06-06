@@ -30,3 +30,5 @@ Suggestions and feedback can be entered in Github Issues.
 ## this will eliminate the need for the venv creation
 
 ## currently the notebooks require AWS boto setup for authentication
+
+### updating Project with working Notebooks with boto3 auth
