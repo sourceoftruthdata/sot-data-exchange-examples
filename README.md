@@ -32,3 +32,5 @@ Suggestions and feedback can be entered in Github Issues.
 ## currently the notebooks require AWS boto setup for authentication
 
 ### updating Project with working Notebooks with boto3 auth
+
+### adding notebook for GCP integrations
