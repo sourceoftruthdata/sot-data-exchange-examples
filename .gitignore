@@ -11,7 +11,7 @@ venv.bak/
 
 #notebooks
 
-/notebooks
+# /notebooks
 
 #docker images
 
