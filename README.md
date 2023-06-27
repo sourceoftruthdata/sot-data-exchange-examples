@@ -34,3 +34,6 @@ Suggestions and feedback can be entered in Github Issues.
 ### updating Project with working Notebooks with boto3 auth
 
 ### adding notebook for GCP integrations
+
+### update GCP notebook
+
