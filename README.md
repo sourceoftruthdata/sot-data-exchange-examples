@@ -35,5 +35,4 @@ Suggestions and feedback can be entered in Github Issues.
 
 ### adding notebook for GCP integrations
 
-### update GCP notebook
 
